@@ -1,0 +1,181 @@
+body {
+  color:#54436B;
+  font-weight: bolder;
+  margin: 0;
+  text-align: center;
+  /**font-family: Goudy Old Style, Garamond, Big Caslon, Times New Roman, serif;  LINK:https://www.cssfontstack.com/Goudy-Old-Style
+  font-family: cursive;**/
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #B980F0;
+  position: relative;
+  padding-top: 70px;
+}
+
+.middle-container {
+  padding:80px 0;
+  background-color: #DDDDDD;
+}
+
+.bottom-container{
+  background-color: #BEAEE2;
+  padding: 50px 0 20px;
+}
+
+a{
+  color:#723881;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright{
+font-size: 0.9rem;
+padding: 20px 0;
+}
+
+h1 {
+  margin: 30px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.8rem;
+  color: #45046A;
+  font-weight: bolder;
+  /**  line-height: 1.3; **/
+}
+
+.newb {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 3px;
+  color: #5C2A9D;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', sans-serif;
+  font-size: 2.5rem;
+  color:#52006A;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Geneva', sans-serif;
+  color: #511281;
+
+}
+
+.skill-row{
+width:50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #C6B4CE 10px;
+  border-bottom: none;
+  width: 7%;
+  margin: 70px auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro{
+width:30%;
+margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.do-magic {
+  position: absolute;
+  top: 350px;
+  right: 110px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 270px;
+  bottom: 415px;
+}
+
+.graphic-tablet {
+  position: absolute;
+  bottom: 150px;
+  left: 110px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.cat-dev{
+  width:35%;
+  float:left;
+  padding-right: 30px;
+}
+
+.creative-brain{
+  width:35%;
+  float:right;
+  padding-left: 30px;
+}
+
+.jb{
+  margin: 40px auto 60px; /*top l&r bottom*/
+}
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 700;
+   padding: 11px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
